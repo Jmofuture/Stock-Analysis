@@ -3,6 +3,10 @@
 
 ### Visualize historical performance of stocks using area graphs and bar charts in Power BI
 
+## Dahsbord
+
+![image](https://user-images.githubusercontent.com/78714438/168650248-f6288924-ea0b-4508-b20f-dc070af98d4f.png)
+
 [Link to the Coursera project](https://www.coursera.org/projects/build-a-real-time-stock-market-dashboard-using-power-bi)
 
 - Project Overview- Get your Finance API keys.
@@ -106,6 +110,7 @@ Line graph with historical transaction volume.
 Candlestick chart depicting daily stock price movements.
 
 ![image](https://user-images.githubusercontent.com/78714438/168649491-b6097a20-b619-4d7f-9892-f3f1abd8336c.png)
+
 
 
 
